@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    margin-top: 0;
+}
+
+.blood-donate {
+    background-image: url(images/donate-blood-cover.webp);
+    height: 900px;
+    padding-top: 20px;
+    background-repeat: no-repeat;
+}
+
+.front-text-button {
+    text-align: center;
+    padding-top: 200px;
+}
+
+.front-text-button h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 80px;
+}
+
+.front-text-button p {
+    font-family: 'Edu TAS Beginner', cursive;
+    font-weight: 700;
+    font-size: 40px;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-bottom: 40px;
+
+}
+
+.button-style {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    background-image: linear-gradient(rgb(250, 56, 21), rgba(243, 130, 149, 0.815));
+    padding: 10px 20px;
+    color: rgb(0, 8, 15);
+    border-radius: 5px;
+}
