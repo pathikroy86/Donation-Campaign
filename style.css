@@ -137,3 +137,97 @@ body {
 .education {
     background-color: rgba(255, 228, 196, 0.541);
 }
+
+.sponsors {
+    text-align: center;
+    background-color: aliceblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-bottom: 50px;
+    margin-bottom: 100px;
+}
+
+.sponsors h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+
+.sponsors p {
+    font-family: 'Edu TAS Beginner', cursive;
+    font-weight: 500;
+    font-size: 25px;
+    padding-left: 350px;
+    padding-right: 350px;
+    margin-bottom: 40px;
+}
+
+.sponsors span {
+    font-weight: 800;
+}
+
+.image-resize {
+    display: flex;
+    padding-left: 700px;
+}
+
+.image-resize img {
+    width: 20%;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.subscribe {
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.subscribe h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+}
+
+.subscribe p {
+    font-family: 'Edu TAS Beginner', cursive;
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+.subscribe input {
+    padding: 8px 40px 8px 40px;
+    border: none;
+    background-color: rgb(206, 198, 198);
+    border-radius: 2px;
+}
+
+.subscribe button {
+    padding: 8px 20px 8px 20px;
+    font-weight: 700;
+    background-image: linear-gradient(rgb(250, 56, 21), rgba(243, 130, 149, 0.815));
+    border-radius: 5px;
+    color: white;
+    border: none;
+}
+
+.golden {
+    background-color: blanchedalmond;
+    padding: 80px 0 80px 0px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+footer h2 {
+    font-family: 'Roboto', sans-serif;
+}
+
+footer p {
+    font-family: 'Edu TAS Beginner', cursive;
+}
